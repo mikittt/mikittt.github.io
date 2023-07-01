@@ -35,6 +35,10 @@ redirect_from:
 
 - <u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada. Generating Easy-to-Understand Referring Expressions for Target Identifications. Journal of the Imaging Society of Japan (日本画像学会誌), 2020, 59.6: 591-600. <a href="https://www.jstage.jst.go.jp/article/isj/59/6/59_591/_article/-char/ja" style="text-decoration:none">[link]</a>
 
+## 査読
+
+- Reviewer: ICCV2021
+
 ## その他
 
 - 2021.4 - 2023.3: 日本学術振興会 特別研究員（DC2)
