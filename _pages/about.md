@@ -19,6 +19,7 @@ redirect_from:
 
 ## 論文 (査読付き)
 
+- <u>Mikihiro Tanaka</u>, Kent Fujiwara. <b>Role-aware Interaction Generation from Textual Description.</b> The IEEE International Conference on Computer Vision (ICCV) 2023.
 - <u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada. <b>Generating Easy-to-Understand Referring Expressions for Target Identifications.</b> The IEEE International Conference on Computer Vision (ICCV) 2019. <a href="https://arxiv.org/abs/1811.12104" style="text-decoration:none">[link]</a>
 - Hirokazu Kameoka, Takuya Higuchi, <u>Mikihiro Tanaka</u>, Li Li. <b>Nonnegative matrix factorization with basis clustering using cepstral distance regularization.</b> IEEE/ACM Transactions on Audio, Speech and Language Processing, Year: 2018, Volume: 26, Issue: 6. <a href="https://ieeexplore.ieee.org/abstract/document/8264769" style="text-decoration:none">[link]</a>
 
