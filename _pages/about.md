@@ -20,8 +20,8 @@ redirect_from:
 
 ## Publications
 
-- <b>Role-aware Interaction Generation from Textual Description</b>, <u>Mikihiro Tanaka</u>, Kent Fujiwara<br>ICCV, 2023. <b>Oral</b> (Acceptance rate: 1.8%)<br><a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.pdf" style="text-decoration:none">[Paper]</a> <a href="https://openaccess.thecvf.com/content/ICCV2023/supplemental/Tanaka_Role-Aware_Interaction_Generation_ICCV_2023_supplemental.pdf" style="text-decoration:none">[Sup]</a>
-- <b>Generating Easy-to-Understand Referring Expressions for Target Identifications</b>, <u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada<br>ICCV, 2019.<br><a href="https://arxiv.org/abs/1811.12104" style="text-decoration:none">[Paper]</a>
+- <b>Role-aware Interaction Generation from Textual Description</b>, <u>Mikihiro Tanaka</u>, Kent Fujiwara, ICCV2023. <b>Oral</b> (Acceptance rate: 1.8%) <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.pdf" style="text-decoration:none">[Paper]</a> <a href="https://openaccess.thecvf.com/content/ICCV2023/supplemental/Tanaka_Role-Aware_Interaction_Generation_ICCV_2023_supplemental.pdf" style="text-decoration:none">[Sup]</a>
+- <b>Generating Easy-to-Understand Referring Expressions for Target Identifications</b>, <u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada, ICCV2019. <a href="https://arxiv.org/abs/1811.12104" style="text-decoration:none">[Paper]</a>
 
 ## Competitions
 
