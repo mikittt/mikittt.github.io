@@ -21,16 +21,12 @@ redirect_from:
 ## Publications
 
 - <b>Role-aware Interaction Generation from Textual Description</b>,<br><u>Mikihiro Tanaka</u>, Kent Fujiwara<br>ICCV 2023 <b>Oral</b> (Acceptance rate: 1.8%) <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.pdf" style="text-decoration:none">[Paper]</a> <a href="https://openaccess.thecvf.com/content/ICCV2023/supplemental/Tanaka_Role-Aware_Interaction_Generation_ICCV_2023_supplemental.pdf" style="text-decoration:none">[Sup]</a>
-- <b>Generating Easy-to-Understand Referring Expressions for Target Identifications</b>,<br><u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada<br>ICCV 2019 <a href="https://arxiv.org/abs/1811.12104" style="text-decoration:none">[Paper]</a>
+- <b>Generating Easy-to-Understand Referring Expressions for Target Identifications</b>,<br><u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada<br>ICCV 2019 <a href="https://arxiv.org/abs/1811.12104" style="text-decoration:none">[Paper]</a><br> (Invited Talks at PRMU2019, FIT2020)
 
 ## Competitions
 
 - <b>The 5th place in the task: Visual Question Answering (VQA) in CVPR2018.</b> <u>Mikihiro Tanaka</u>, Atsuhiro Noguchi, Kohei Uehara, Lisa Kawai, Yoshitaka Ushiku, Tatsuya Harada. <a href="https://visualqa.org/challenge_2018.html" style="text-decoration:none">[link]</a>
 
-## Invited Talks
-
-- <u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada. Generating Easy-to-Understand Referring Expressions for Target Identifications. <b>FIT</b>, 2020 <a href="https://www.ipsj.or.jp/event/fit/fit2020/" style="text-decoration:none">[link]</a>
-- <u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada. Generating Easy-to-Understand Referring Expressions for Target Identifications. <b>PRMU</b>, 2019 <a href="https://www.ieice.org/ken/program/index.php?tgs_regid=9c4b1e7a01870119429e03e5996c8b7205108719ec69e7e644185c0e8fe30ac7&tgid=IEICE-PRMU" style="text-decoration:none">[link]</a>
 
 ## 依頼解説
 
