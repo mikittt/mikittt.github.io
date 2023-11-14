@@ -36,6 +36,10 @@ redirect_from:
 
 - <u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada. Generating Easy-to-Understand Referring Expressions for Target Identifications. Journal of the Imaging Society of Japan (日本画像学会誌), 2020, 59.6: 591-600. <a href="https://www.jstage.jst.go.jp/article/isj/59/6/59_591/_article/-char/ja" style="text-decoration:none">[link]</a>
 
+## メディア
+
+- LINEヤフーが人体CG向け生成AI技術、役割を指定して2人の相互動作を出力<br>2023.11.10 日経Robotics <a href="https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00134/" style="text-decoration:none">[link]</a>
+
 ## Reviewer
 
 - ICCV2021
@@ -46,4 +50,4 @@ redirect_from:
 
 ---
 
-last update: 2023/10/10
+last update: 2023/11/14
