@@ -12,8 +12,8 @@ redirect_from:
 
 ## Biography
 
-- 2023.10-Current: LINE ヤフー Virtual Human Lab 所属
-- 2022.4-2023.9: LINE 株式会社 Computer Vision Lab 所属
+- 2023.10-Current: LINEヤフー Virtual Human Lab 所属
+- 2022.4-2023.9: LINE株式会社 Computer Vision Lab 所属
 - 2020.4-2022.3: 東京大学 大学院情報理工学系研究科 知能機械情報学専攻 博士課程 中途退学
 - 2018.4-2020.3: 東京大学 大学院情報理工学系研究科 知能機械情報学専攻 修士課程 修了
 - 2014.4-2018.3: 東京大学 工学部 機械情報工学科 卒業
@@ -38,7 +38,7 @@ redirect_from:
 
 ## Reviewer
 
-- ICCV2021
+- ICCV2021, CVPR2024
 
 ## Grants & Fellowships
 
@@ -46,4 +46,4 @@ redirect_from:
 
 ---
 
-last update: 2023/11/14
+last update: 2024/1/14
