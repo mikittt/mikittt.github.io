@@ -20,8 +20,10 @@ redirect_from:
 
 ## Publications
 
-- <b>Role-aware Interaction Generation from Textual Description</b>,<br><u>Mikihiro Tanaka</u>, Kent Fujiwara<br>ICCV 2023 <b>Oral</b> (Acceptance rate: 1.8%) <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.pdf" style="text-decoration:none">[Paper]</a> <a href="https://openaccess.thecvf.com/content/ICCV2023/supplemental/Tanaka_Role-Aware_Interaction_Generation_ICCV_2023_supplemental.pdf" style="text-decoration:none">[Sup]</a>
-- <b>Generating Easy-to-Understand Referring Expressions for Target Identifications</b>,<br><u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada<br>ICCV 2019 <a href="https://arxiv.org/abs/1811.12104" style="text-decoration:none">[Paper]</a><br> (Invited Talks at PRMU2019, FIT2020)
+
+- <b>Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches</b>,<br>Qing Yu, <u>Mikihiro Tanaka</u>, Kent Fujiwara<br>CVPR2024
+- <b>Role-aware Interaction Generation from Textual Description</b>,<br><u>Mikihiro Tanaka</u>, Kent Fujiwara<br>ICCV 2023 <b>Oral</b> (Top: 1.8%) <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper" style="text-decoration:none">[Link]</a>
+- <b>Generating Easy-to-Understand Referring Expressions for Target Identifications</b>,<br><u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada<br>ICCV 2019 <a href="https://arxiv.org/abs/1811.12104" style="text-decoration:none">[Link]</a><br> (Invited Talks at PRMU2019, FIT2020)
 
 ## Competitions
 
@@ -32,7 +34,7 @@ redirect_from:
 
 - <u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada. Generating Easy-to-Understand Referring Expressions for Target Identifications. Journal of the Imaging Society of Japan (日本画像学会誌), 2020, 59.6: 591-600. <a href="https://www.jstage.jst.go.jp/article/isj/59/6/59_591/_article/-char/ja" style="text-decoration:none">[link]</a>
 
-## メディア
+## Media
 
 - LINEヤフーが人体CG向け生成AI技術、役割を指定して2人の相互動作を出力<br>2023.11.10 日経Robotics <a href="https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00134/" style="text-decoration:none">[link]</a>
 
@@ -46,4 +48,4 @@ redirect_from:
 
 ---
 
-last update: 2024/1/14
+last update: 2024/3/19
