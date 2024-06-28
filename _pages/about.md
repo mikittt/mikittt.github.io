@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-主に Vision & Language に興味があります。最近は特に motion の研究をしています。
+主に Vision & Language に興味があります。
 
 ## Biography
 
-- 2023.10-Current: LINEヤフー Virtual Human Lab 所属
-- 2022.4-2023.9: LINE株式会社 Computer Vision Lab 所属
+- 2023.10-Current: LINEヤフー 所属
+- 2022.4-2023.9: LINE株式会社 所属
 - 2020.4-2022.3: 東京大学 大学院情報理工学系研究科 知能機械情報学専攻 博士課程 中途退学
 - 2018.4-2020.3: 東京大学 大学院情報理工学系研究科 知能機械情報学専攻 修士課程 修了
 - 2014.4-2018.3: 東京大学 工学部 機械情報工学科 卒業
@@ -37,6 +37,7 @@ redirect_from:
 ## Media
 
 - LINEヤフーが人体CG向け生成AI技術、役割を指定して2人の相互動作を出力<br>2023.11.10 日経Robotics <a href="https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00134/" style="text-decoration:none">[link]</a>
+- 「フカヨミ テキストからの動作生成」<br>コンピュータビジョン最前線　Summer 2024 <a href="https://www.kyoritsu-pub.co.jp/book/b10081154.html" style="text-decoration:none">[link]</a>
 
 ## Reviewer
 
@@ -48,4 +49,4 @@ redirect_from:
 
 ---
 
-last update: 2024/3/19
+last update: 2024/6/28
