@@ -37,7 +37,7 @@ redirect_from:
 ## Media
 
 - LINEヤフーが人体CG向け生成AI技術、役割を指定して2人の相互動作を出力<br>2023.11.10 日経Robotics <a href="https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00134/" style="text-decoration:none">[link]</a>
-- 「フカヨミ テキストからの動作生成」<br>コンピュータビジョン最前線　Summer 2024 <a href="https://www.kyoritsu-pub.co.jp/book/b10081154.html" style="text-decoration:none">[link]</a>
+- 「フカヨミ テキストからの動作生成」<br>コンピュータビジョン最前線　Summer 2024 共立出版<a href="https://www.kyoritsu-pub.co.jp/book/b10081154.html" style="text-decoration:none">[link]</a>
 
 ## Reviewer
 
