@@ -20,9 +20,9 @@ redirect_from:
 
 ## Publications
 
-- <b>Chronologically Accurate Retrieval for Temporal Grounding of Motion-Language Models</b>,<br>Kent Fujiwara, <u>Mikihiro Tanaka</u>, Qing Yu<br>ECCV2024
+- <b>Chronologically Accurate Retrieval for Temporal Grounding of Motion-Language Models</b>,<br>Kent Fujiwara, <u>Mikihiro Tanaka</u>, Qing Yu<br>ECCV2024 <a href="https://arxiv.org/abs/2407.15408" style="text-decoration:none">[Link]</a>
 - <b>Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches</b>,<br>Qing Yu, <u>Mikihiro Tanaka</u>, Kent Fujiwara<br>CVPR2024 <a href="https://arxiv.org/abs/2405.04771" style="text-decoration:none">[Link]</a>
-- <b>Role-aware Interaction Generation from Textual Description</b>,<br><u>Mikihiro Tanaka</u>, Kent Fujiwara<br>ICCV 2023 <b>Oral</b> (Top: 1.8%) <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper" style="text-decoration:none">[Link]</a>
+- <b>Role-aware Interaction Generation from Textual Description</b>,<br><u>Mikihiro Tanaka</u>, Kent Fujiwara<br>ICCV 2023 <b>Oral</b> (Top: 1.8%) <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper" style="text-decoration:none">[Link]</a><br> (Invited Talks at MIRU2024)
 - <b>Generating Easy-to-Understand Referring Expressions for Target Identifications</b>,<br><u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada<br>ICCV 2019 <a href="https://arxiv.org/abs/1811.12104" style="text-decoration:none">[Link]</a><br> (Invited Talks at PRMU2019, FIT2020)
 
 ## Competitions
@@ -49,4 +49,4 @@ redirect_from:
 
 ---
 
-last update: 2024/7/03
+last update: 2024/8/14
