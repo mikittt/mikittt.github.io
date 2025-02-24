@@ -2,10 +2,6 @@
 title: 'Blog Post number 1'
 date: 2025-02-25
 permalink: /posts/Japanese_MLLM
-tags:
-  - cool posts
-  - category1
-  - category2
 ---
 
 高精度な日本語マルチモーダル大規模言語モデルの構築にむけたデータセットの検討
