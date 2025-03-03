@@ -20,16 +20,20 @@ redirect_from:
 
 ## Publications
 
-- <b>Chronologically Accurate Retrieval for Temporal Grounding of Motion-Language Models</b>,<br>Kent Fujiwara, <u>Mikihiro Tanaka</u>, Qing Yu<br>ECCV2024 <a href="https://arxiv.org/abs/2407.15408" style="text-decoration:none">[Link]</a>
-- <b>Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches</b>,<br>Qing Yu, <u>Mikihiro Tanaka</u>, Kent Fujiwara<br>CVPR2024 <a href="https://arxiv.org/abs/2405.04771" style="text-decoration:none">[Link]</a>
-- <b>Role-aware Interaction Generation from Textual Description</b>,<br><u>Mikihiro Tanaka</u>, Kent Fujiwara<br>ICCV 2023 <b>Oral</b> (Top: 1.8%) <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper" style="text-decoration:none">[Link]</a><br> 
+- <b>Chronologically Accurate Retrieval for Temporal Grounding of Motion-Language Models</b>,<br>Kent Fujiwara, <u>Mikihiro Tanaka</u>, Qing Yu<br>ECCV2024 <a href="https://arxiv.org/abs/2407.15408" style="text-decoration:none">[paper]</a>
+- <b>Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches</b>,<br>Qing Yu, <u>Mikihiro Tanaka</u>, Kent Fujiwara<br>CVPR2024 <a href="https://arxiv.org/abs/2405.04771" style="text-decoration:none">[paper]</a>
+- <b>Role-aware Interaction Generation from Textual Description</b>,<br><u>Mikihiro Tanaka</u>, Kent Fujiwara<br>ICCV 2023 <b>Oral</b> (Top: 1.8%) <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper" style="text-decoration:none">[paper]</a><br> 
   - Invited Talks at MIRU2024, FIT2024
-- <b>Generating Easy-to-Understand Referring Expressions for Target Identifications</b>,<br><u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada<br>ICCV 2019 <a href="https://arxiv.org/abs/1811.12104" style="text-decoration:none">[Link]</a><br> 
+- <b>Generating Easy-to-Understand Referring Expressions for Target Identifications</b>,<br><u>Mikihiro Tanaka</u>, Takayuki Itamochi, Kenichi Narioka, Ikuro Sato, Yoshitaka Ushiku, Tatsuya Harada<br>ICCV2019 <a href="https://arxiv.org/abs/1811.12104" style="text-decoration:none">[paper]</a><br> 
   - Invited Talks at PRMU2019, FIT2020
 
 ## Competitions
 
-- <b>The 5th place in the task: Visual Question Answering (VQA) in CVPR2018.</b> <u>Mikihiro Tanaka</u>, Atsuhiro Noguchi, Kohei Uehara, Lisa Kawai, Yoshitaka Ushiku, Tatsuya Harada. <a href="https://visualqa.org/challenge_2018.html" style="text-decoration:none">[link]</a>
+- <b>The 5th place in the task: Visual Question Answering (VQA) in CVPR2018.</b> <br><u>Mikihiro Tanaka</u>, Atsuhiro Noguchi, Kohei Uehara, Lisa Kawai, Yoshitaka Ushiku, Tatsuya Harada. <a href="https://visualqa.org/challenge_2018.html" style="text-decoration:none">[link]</a>
+
+## 国内学会
+
+- <b>高精度な日本語マルチモーダル大規模言語モデルの構築にむけたデータセットの検討</b> <br><u>田中 幹大</u>, 朱 佩菲, 横尾 修平<br>NLP2025 <a href="https://mikittt.github.io/posts/Japanese_MLLM" style="text-decoration:none">[project page]</a>
 
 
 ## 依頼解説
@@ -51,4 +55,4 @@ redirect_from:
 
 ---
 
-last update: 2024/9/6
+last update: 2025/3/3
